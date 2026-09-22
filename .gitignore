@@ -15,4 +15,5 @@ back/appsettings.*.Local.json
 
 # IDE
 .idea/
+.idea/
 .vs/
